@@ -22,7 +22,7 @@ Having trouble? Or new ideas? Post a new issue! We will be glad to help you!
 [travis-image]: https://travis-ci.org/luanmuniz/centauro-node.png?branch=master
 [depstat-url]: https://david-dm.org/luanmuniz/centauro-node
 [depstat-image]: https://david-dm.org/luanmuniz/centauro-node.png
-[nodei-image]: https://nodei.co/npm/centauro-node.png
-[nodei-url]: https://nodei.co/npm/centauro-node
-[node-image]: https://badge.fury.io/js/centauro-node.svg
-[node-url]: http://badge.fury.io/js/centauro-node
+[nodei-image]: https://nodei.co/npm/centauro.png
+[nodei-url]: https://nodei.co/npm/centauro
+[node-image]: https://badge.fury.io/js/centauro.svg
+[node-url]: http://badge.fury.io/js/centauro
