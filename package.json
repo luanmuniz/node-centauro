@@ -1,40 +1,41 @@
 {
-  "name": "centauro",
-  "version": "0.1.0",
-  "description": "A library for the Centauro API",
-  "author": "Luan Muniz <luan@luanmuniz.com.br> (http://github.com/luanmuniz)",
-  "homepage": "https://github.com/luanmuniz/centauro-node",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/luanmuniz/centauro-node.git"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://luanmuniz.mit-license.org/"
-    }
-  ],
-  "bugs": "https://github.com/luanmuniz/centauro-node/issues",
-  "contributors": "https://github.com/luanmuniz/centauro-node/graphs/contributors",
-  "main": "index.js",
-  "scripts": {
-    "test": "gulp test"
-  },
-  "keywords": [
-    "centauro",
-    "lib",
-    "promise"
-  ],
-  "dependencies": {
-    "promise": "^7.0.3",
-    "request-promise": "^0.4.2",
-    "xml2js": "^0.4.9"
-  },
-  "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-duration": "0.0.0",
-    "gulp-jscs": "^1.6.0",
-    "gulp-jshint": "^1.11.0",
-    "gulp-mocha": "^2.1.0"
-  }
+	"name": "centauro",
+	"version": "0.1.0",
+	"description": "A library for the Centauro API",
+	"author": "Luan Muniz <luan@luanmuniz.com.br> (http://github.com/luanmuniz)",
+	"homepage": "https://github.com/luanmuniz/centauro-node",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/luanmuniz/centauro-node.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://luanmuniz.mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/luanmuniz/centauro-node/issues",
+	"contributors": "https://github.com/luanmuniz/centauro-node/graphs/contributors",
+	"main": "index.js",
+	"scripts": {
+		"test": "gulp test"
+	},
+	"keywords": [
+		"centauro",
+		"lib",
+		"promise"
+	],
+	"dependencies": {
+		"promise": "^7.0.3",
+		"request-promise": "^0.4.2",
+		"soap": "^0.9.1",
+		"xml2js": "^0.4.9"
+	},
+	"devDependencies": {
+		"gulp": "^3.8.11",
+		"gulp-duration": "0.0.0",
+		"gulp-jscs": "^1.6.0",
+		"gulp-jshint": "^1.11.0",
+		"gulp-mocha": "^2.1.0"
+	}
 }

@@ -1,23 +1,16 @@
 'use strict';
 
 var catalogAPI = require('./lib/catalog'),
-	errorHelper = require('./lib/error'),
-	coreAPI = require('./lib/core'),
-centauroAPI = {
+	coreAPI = require('./lib/api/core'),
+	skuAPI = require('./lib/api/sku');
 
-	init: function(keys, env) {
-		if(!keys || !keys.token || !keys.campaign || !keys.partnerID) {
-			return errorHelper.errorHandler('main', 1);
-		}
+module.exports = function(keys, env) {
+	var centauroCore = coreAPI.init(keys, env);
 
-		centauroAPI = coreAPI.init(keys, env);
-
-		if(keys.partnerName) {
-			centauroAPI.catalog = catalogAPI.init(keys.partnerName, env);
-		}
-
-		return centauroAPI;
+	this.sku = skuAPI.init(centauroCore);
+	if(keys.partnerName) {
+		this.catalog = catalogAPI.init(keys.partnerName, env);
 	}
-};
 
-module.exports = Object.create(centauroAPI);
+	return this;
+};
