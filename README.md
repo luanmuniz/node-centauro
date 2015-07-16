@@ -18,10 +18,10 @@ Having trouble? Or new ideas? Post a new issue! We will be glad to help you!
 
 [MIT License](http://luanmuniz.mit-license.org) © Luan Muniz
 
-[travis-url]: https://travis-ci.org/luanmuniz/centauro-node
-[travis-image]: https://travis-ci.org/luanmuniz/centauro-node.png?branch=master
-[depstat-url]: https://david-dm.org/luanmuniz/centauro-node
-[depstat-image]: https://david-dm.org/luanmuniz/centauro-node.png
+[travis-url]: https://travis-ci.org/luanmuniz/node-centauro
+[travis-image]: https://travis-ci.org/luanmuniz/node-centauro.png?branch=master
+[depstat-url]: https://david-dm.org/luanmuniz/node-centauro
+[depstat-image]: https://david-dm.org/luanmuniz/node-centauro.png
 [nodei-image]: https://nodei.co/npm/centauro.png
 [nodei-url]: https://nodei.co/npm/centauro
 [node-image]: https://badge.fury.io/js/centauro.svg

@@ -3,10 +3,10 @@
 	"version": "0.1.0",
 	"description": "A library for the Centauro API",
 	"author": "Luan Muniz <luan@luanmuniz.com.br> (http://github.com/luanmuniz)",
-	"homepage": "https://github.com/luanmuniz/centauro-node",
+	"homepage": "https://github.com/luanmuniz/node-centauro",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/luanmuniz/centauro-node.git"
+		"url": "https://github.com/luanmuniz/node-centauro.git"
 	},
 	"licenses": [
 		{
@@ -14,8 +14,8 @@
 			"url": "http://luanmuniz.mit-license.org/"
 		}
 	],
-	"bugs": "https://github.com/luanmuniz/centauro-node/issues",
-	"contributors": "https://github.com/luanmuniz/centauro-node/graphs/contributors",
+	"bugs": "https://github.com/luanmuniz/node-centauro/issues",
+	"contributors": "https://github.com/luanmuniz/node-centauro/graphs/contributors",
 	"main": "index.js",
 	"scripts": {
 		"test": "gulp test"
