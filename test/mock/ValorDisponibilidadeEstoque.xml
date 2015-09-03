@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<DisponibilidadeEstoque xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sku Sku="828423012031" Disponivel="1" Preco="219,90" />
+  <Sku Sku="828423012048" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825109V52020" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825109V52037" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825109V52051" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8340134C2028" Disponivel="1" PrecoDe="179,90" Preco="159,90" />
+  <Sku Sku="825109V52044" Disponivel="1" Preco="219,90" />
+  <Sku Sku="828423012055" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8340134C2035" Disponivel="1" PrecoDe="179,90" Preco="159,90" />
+  <Sku Sku="8340134C2042" Disponivel="1" Preco="179,90" />
+  <Sku Sku="8340134C2059" Disponivel="1" Preco="179,90" />
+  <Sku Sku="828423012024" Disponivel="1" Preco="219,90" />
+  <Sku Sku="834014012021" Disponivel="1" Preco="179,90" />
+  <Sku Sku="8310923X2033" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="813893012025" Disponivel="1" PrecoDe="189,90" Preco="89,90" />
+  <Sku Sku="813893012032" Disponivel="1" PrecoDe="189,90" Preco="89,90" />
+  <Sku Sku="813893012056" Disponivel="1" PrecoDe="189,90" Preco="89,90" />
+  <Sku Sku="8310923X2026" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="8310923X2040" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="813893012049" Disponivel="1" PrecoDe="189,90" Preco="89,90" />
+  <Sku Sku="8310923X2057" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="834014012045" Disponivel="1" Preco="179,90" />
+  <Sku Sku="834014012038" Disponivel="1" Preco="179,90" />
+  <Sku Sku="834014012052" Disponivel="1" PrecoDe="179,90" Preco="149,90" />
+  <Sku Sku="808488072034" Disponivel="1" PrecoDe="179,90" Preco="129,90" />
+  <Sku Sku="808488072058" Disponivel="1" PrecoDe="179,90" Preco="129,90" />
+  <Sku Sku="808488072065" Disponivel="1" Preco="179,90" />
+  <Sku Sku="825832012041" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825832012034" Disponivel="1" Preco="219,90" />
+  <Sku Sku="808488072027" Disponivel="1" PrecoDe="179,90" Preco="129,90" />
+  <Sku Sku="825832012027" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825832012058" Disponivel="1" Preco="219,90" />
+  <Sku Sku="808488072041" Disponivel="1" PrecoDe="179,90" Preco="129,90" />
+  <Sku Sku="835030042047" Disponivel="1" Preco="249,90" />
+  <Sku Sku="835030042023" Disponivel="1" Preco="249,90" />
+  <Sku Sku="8325542V2030" Disponivel="1" PrecoDe="299,90" Preco="229,90" />
+  <Sku Sku="835030042054" Disponivel="1" Preco="249,90" />
+  <Sku Sku="835030042061" Disponivel="1" Preco="249,90" />
+  <Sku Sku="835030042030" Disponivel="1" Preco="249,90" />
+  <Sku Sku="8325542V2023" Disponivel="1" Preco="299,90" />
+  <Sku Sku="8333512V2049" Disponivel="1" Preco="209,90" />
+  <Sku Sku="8333512V2032" Disponivel="1" Preco="209,90" />
+  <Sku Sku="8333512V2056" Disponivel="1" Preco="209,90" />
+  <Sku Sku="8325542V2054" Disponivel="1" Preco="299,90" />
+  <Sku Sku="8325542V2047" Disponivel="1" Preco="299,90" />
+  <Sku Sku="8333512V2025" Disponivel="1" Preco="209,90" />
+  <Sku Sku="805172I72025" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="805172I72056" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="8321436T2045" Disponivel="1" Preco="179,90" />
+  <Sku Sku="805172I72032" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="8321436T2021" Disponivel="1" Preco="179,90" />
+  <Sku Sku="829139492032" Disponivel="1" PrecoDe="199,90" Preco="139,90" />
+  <Sku Sku="8321436T2038" Disponivel="1" Preco="179,90" />
+  <Sku Sku="829139492056" Disponivel="1" PrecoDe="199,90" Preco="139,90" />
+  <Sku Sku="829139492025" Disponivel="1" PrecoDe="199,90" Preco="139,90" />
+  <Sku Sku="805172I72049" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="829139492049" Disponivel="1" PrecoDe="199,90" Preco="139,90" />
+  <Sku Sku="8321436T2052" Disponivel="1" Preco="179,90" />
+  <Sku Sku="8325142U2026" Disponivel="1" Preco="219,90" />
+  <Sku Sku="832149422029" Disponivel="1" Preco="179,90" />
+  <Sku Sku="8325142U2057" Disponivel="1" Preco="219,90" />
+  <Sku Sku="832149422043" Disponivel="1" Preco="179,90" />
+  <Sku Sku="8325142U2033" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8325142U2040" Disponivel="1" Preco="219,90" />
+  <Sku Sku="832149422050" Disponivel="1" Preco="179,90" />
+  <Sku Sku="832149422036" Disponivel="1" Preco="179,90" />
+  <Sku Sku="817934192059" Disponivel="1" PrecoDe="249,90" Preco="149,90" />
+  <Sku Sku="831599012033" Disponivel="1" Preco="199,90" />
+  <Sku Sku="831599012026" Disponivel="1" Preco="199,90" />
+  <Sku Sku="831599015102" Disponivel="1" Preco="199,90" />
+  <Sku Sku="817934192042" Disponivel="1" PrecoDe="249,90" Preco="149,90" />
+  <Sku Sku="831599012057" Disponivel="1" Preco="199,90" />
+  <Sku Sku="817934192035" Disponivel="1" PrecoDe="249,90" Preco="149,90" />
+  <Sku Sku="831599015164" Disponivel="1" Preco="199,90" />
+  <Sku Sku="817934192028" Disponivel="1" PrecoDe="249,90" Preco="149,90" />
+  <Sku Sku="817934192066" Disponivel="1" PrecoDe="249,90" Preco="149,90" />
+  <Sku Sku="831599012040" Disponivel="1" Preco="199,90" />
+  <Sku Sku="826735512058" Disponivel="1" Preco="219,90" />
+  <Sku Sku="823223312046" Disponivel="1" Preco="169,90" />
+  <Sku Sku="826735512034" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8350592V2048" Disponivel="1" Preco="249,90" />
+  <Sku Sku="823223312039" Disponivel="1" Preco="169,90" />
+  <Sku Sku="826735512041" Disponivel="1" Preco="219,90" />
+  <Sku Sku="826735512027" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8350592V2031" Disponivel="1" Preco="249,90" />
+  <Sku Sku="823223312022" Disponivel="1" Preco="169,90" />
+  <Sku Sku="8350592V2055" Disponivel="1" Preco="249,90" />
+  <Sku Sku="8350592V2024" Disponivel="1" Preco="249,90" />
+  <Sku Sku="823223312053" Disponivel="1" Preco="169,90" />
+  <Sku Sku="812389WY2032" Disponivel="1" PrecoDe="209,90" Preco="99,90" />
+  <Sku Sku="812389WY2049" Disponivel="1" PrecoDe="209,90" Preco="99,90" />
+  <Sku Sku="812389WY2056" Disponivel="1" PrecoDe="209,90" Preco="99,90" />
+  <Sku Sku="814084012053" Disponivel="1" PrecoDe="149,90" Preco="99,90" />
+  <Sku Sku="814084012039" Disponivel="1" PrecoDe="149,90" Preco="99,90" />
+  <Sku Sku="812389WY2025" Disponivel="1" PrecoDe="209,90" Preco="99,90" />
+  <Sku Sku="814084012022" Disponivel="1" PrecoDe="149,90" Preco="99,90" />
+  <Sku Sku="814084012046" Disponivel="1" PrecoDe="149,90" Preco="119,90" />
+  <Sku Sku="797415512036" Disponivel="0" PrecoDe="49,90" Preco="39,90" />
+  <Sku Sku="830912072051" Disponivel="1" Preco="169,90" />
+  <Sku Sku="797415512029" Disponivel="0" PrecoDe="39,90" Preco="29,90" />
+  <Sku Sku="830912072020" Disponivel="1" Preco="169,90" />
+  <Sku Sku="797415312049" Disponivel="0" PrecoDe="39,90" Preco="25,42" />
+  <Sku Sku="797415512043" Disponivel="0" PrecoDe="39,90" Preco="29,90" />
+  <Sku Sku="797415312056" Disponivel="0" PrecoDe="39,90" Preco="29,90" />
+  <Sku Sku="830912072044" Disponivel="1" Preco="169,90" />
+  <Sku Sku="797415312032" Disponivel="0" PrecoDe="39,90" Preco="25,42" />
+  <Sku Sku="797415512050" Disponivel="0" PrecoDe="39,90" Preco="25,42" />
+  <Sku Sku="830912072037" Disponivel="1" Preco="169,90" />
+  <Sku Sku="797415312025" Disponivel="1" PrecoDe="39,90" Preco="29,90" />
+  <Sku Sku="818378012057" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="831731D02023" Disponivel="1" PrecoDe="219,90" Preco="179,90" />
+  <Sku Sku="818378012040" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="831731D02054" Disponivel="1" PrecoDe="219,90" Preco="179,90" />
+  <Sku Sku="831731D02047" Disponivel="1" PrecoDe="219,90" Preco="179,90" />
+  <Sku Sku="818378012026" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="831731D02030" Disponivel="1" PrecoDe="219,90" Preco="179,90" />
+  <Sku Sku="818378012033" Disponivel="1" PrecoDe="219,90" Preco="149,90" />
+  <Sku Sku="813892422047" Disponivel="1" Preco="189,90" />
+  <Sku Sku="8337843I2067" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8337843I2043" Disponivel="1" Preco="229,90" />
+  <Sku Sku="813892422030" Disponivel="1" Preco="189,90" />
+  <Sku Sku="828420312059" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8337843I2036" Disponivel="1" Preco="229,90" />
+  <Sku Sku="828420312035" Disponivel="1" Preco="219,90" />
+  <Sku Sku="826263312045" Disponivel="1" PrecoDe="199,90" Preco="149,90" />
+  <Sku Sku="828420312042" Disponivel="1" Preco="219,90" />
+  <Sku Sku="813892422023" Disponivel="1" PrecoDe="189,90" Preco="89,90" />
+  <Sku Sku="826263312021" Disponivel="1" Preco="199,90" />
+  <Sku Sku="813892422054" Disponivel="1" Preco="189,90" />
+  <Sku Sku="8337843I2050" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8337843I2029" Disponivel="1" Preco="229,90" />
+  <Sku Sku="828420312028" Disponivel="1" Preco="219,90" />
+  <Sku Sku="826263312038" Disponivel="1" Preco="199,90" />
+  <Sku Sku="826263312052" Disponivel="1" Preco="199,90" />
+  <Sku Sku="8232512U2042" Disponivel="1" PrecoDe="229,90" Preco="189,90" />
+  <Sku Sku="8232512U2059" Disponivel="1" PrecoDe="229,90" Preco="189,90" />
+  <Sku Sku="8232512U2035" Disponivel="1" PrecoDe="229,90" Preco="189,90" />
+  <Sku Sku="832855312041" Disponivel="1" Preco="229,90" />
+  <Sku Sku="832855312034" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8232512U2028" Disponivel="1" PrecoDe="229,90" Preco="189,90" />
+  <Sku Sku="832855312027" Disponivel="1" Preco="229,90" />
+  <Sku Sku="832855312065" Disponivel="1" Preco="229,90" />
+  <Sku Sku="832855312058" Disponivel="1" Preco="229,90" />
+  <Sku Sku="818073862032" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8267343L2030" Disponivel="1" Preco="199,90" />
+  <Sku Sku="8267343L2054" Disponivel="1" Preco="199,90" />
+  <Sku Sku="8267343L2023" Disponivel="1" Preco="199,90" />
+  <Sku Sku="818073862049" Disponivel="1" Preco="219,90" />
+  <Sku Sku="818073862056" Disponivel="1" Preco="219,90" />
+  <Sku Sku="818073862025" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8267343L2047" Disponivel="1" Preco="199,90" />
+  <Sku Sku="833786492048" Disponivel="1" Preco="229,90" />
+  <Sku Sku="833786492062" Disponivel="1" Preco="229,90" />
+  <Sku Sku="833786492031" Disponivel="1" Preco="229,90" />
+  <Sku Sku="833786492024" Disponivel="1" Preco="229,90" />
+  <Sku Sku="833786492055" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8109252V2056" Disponivel="1" PrecoDe="149,90" Preco="79,90" />
+  <Sku Sku="8109252V2049" Disponivel="1" PrecoDe="149,90" Preco="79,90" />
+  <Sku Sku="825108492058" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825108492034" Disponivel="1" Preco="219,90" />
+  <Sku Sku="825108492041" Disponivel="1" Preco="219,90" />
+  <Sku Sku="8109252V2025" Disponivel="1" PrecoDe="149,90" Preco="79,90" />
+  <Sku Sku="8109252V2063" Disponivel="1" PrecoDe="149,90" Preco="99,90" />
+  <Sku Sku="8109252V2032" Disponivel="1" PrecoDe="149,90" Preco="79,90" />
+  <Sku Sku="825108492027" Disponivel="1" Preco="219,90" />
+  <Sku Sku="833265312027" Disponivel="1" Preco="189,90" />
+  <Sku Sku="833265312058" Disponivel="1" Preco="189,90" />
+  <Sku Sku="833265312041" Disponivel="1" Preco="189,90" />
+  <Sku Sku="833265312034" Disponivel="1" Preco="189,90" />
+  <Sku Sku="8106132R2058" Disponivel="1" PrecoDe="169,90" Preco="99,90" />
+  <Sku Sku="823224512025" Disponivel="1" Preco="169,90" />
+  <Sku Sku="823224512032" Disponivel="1" Preco="169,90" />
+  <Sku Sku="823224512049" Disponivel="1" Preco="169,90" />
+  <Sku Sku="823224512056" Disponivel="1" Preco="169,90" />
+  <Sku Sku="8106132R2027" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="8106132R2034" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="8106132R2041" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="8305186R2029" Disponivel="1" Preco="229,90" />
+  <Sku Sku="831555042043" Disponivel="1" Preco="199,90" />
+  <Sku Sku="831555042036" Disponivel="1" Preco="199,90" />
+  <Sku Sku="831555042050" Disponivel="1" Preco="199,90" />
+  <Sku Sku="831555045167" Disponivel="1" Preco="199,90" />
+  <Sku Sku="831555042029" Disponivel="1" Preco="199,90" />
+  <Sku Sku="8305186R2050" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8305186R2036" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8305186R2043" Disponivel="1" Preco="229,90" />
+  <Sku Sku="835238NF2058" Disponivel="1" PrecoDe="199,90" Preco="179,90" />
+  <Sku Sku="830981512052" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="8325072V2032" Disponivel="1" Preco="219,90" />
+  <Sku Sku="835238NF2041" Disponivel="1" PrecoDe="199,90" Preco="179,90" />
+  <Sku Sku="8325072V2049" Disponivel="1" Preco="219,90" />
+  <Sku Sku="810616012041" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="830981512045" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="810616012058" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="8325072V2056" Disponivel="1" Preco="219,90" />
+  <Sku Sku="810616012027" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="830981512021" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="830981512038" Disponivel="1" PrecoDe="229,90" Preco="199,90" />
+  <Sku Sku="8325072V2025" Disponivel="1" Preco="219,90" />
+  <Sku Sku="835238NF2027" Disponivel="1" PrecoDe="199,90" Preco="179,90" />
+  <Sku Sku="835238NF2034" Disponivel="1" PrecoDe="199,90" Preco="179,90" />
+  <Sku Sku="810616012034" Disponivel="1" PrecoDe="169,90" Preco="154,90" />
+  <Sku Sku="8277773V2032" Disponivel="1" PrecoDe="249,90" Preco="209,90" />
+  <Sku Sku="832840512050" Disponivel="1" Preco="229,90" />
+  <Sku Sku="832840512067" Disponivel="1" Preco="229,90" />
+  <Sku Sku="8277773V2025" Disponivel="1" PrecoDe="249,90" Preco="209,90" />
+  <Sku Sku="8277773V2049" Disponivel="1" PrecoDe="249,90" Preco="209,90" />
+  <Sku Sku="832840512029" Disponivel="1" Preco="229,90" />
+  <Sku Sku="832840512036" Disponivel="1" Preco="229,90" />
+  <Sku Sku="832840512043" Disponivel="1" Preco="229,90" />
+</DisponibilidadeEstoque>

@@ -27,4 +27,4 @@ npm-debug.log
 *.cache
 backup/
 cache/
-test/
+ignore-*

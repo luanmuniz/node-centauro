@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<CatalogoProdutos xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Produto IdProduto="50668900" Nome="Banco Supino Polimet " DescricaoLonga="Banco Supino Polimet , Cor: Nao Se Aplica" Genero="Unissex" Fabricante="Polimet">
+    <Imagens>
+      <Imagem ImagemMenor="http://imagens.centauro.com.br/180x180/50668900.jpg" ImagemMaior="http://imagens.centauro.com.br/400x400/50668900.jpg" ImagemZoom="http://imagens.centauro.com.br/900x900/50668900.jpg" />
+    </Imagens>
+    <Skus>
+      <Sku IdSku="506689000008" DataModificacao="2014-07-22T13:29:53.443" Habilitado="true" Modelo="Nao Se Aplica" Tamanho="ÚNICO" Preco="80,00" />
+    </Skus>
+    <Categorias>
+      <Categoria Id="2" Nome="Fitness" Grupo="Acessórios" IdGrupo="" SubGrupo="Grampo Para Barra" IdSubGrupo="" />
+      <Categoria Id="8" Nome="Training" Grupo="Vestuário" IdGrupo="" SubGrupo="Calça" IdSubGrupo="" />
+      <Categoria Id="146" Nome="Training" Grupo="Equipamentos" IdGrupo="" SubGrupo="Banco De Supino" IdSubGrupo="" />
+    </Categorias>
+    <FichaProduto>
+      <FichaTecnica>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br type="_moz" /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Conhe&amp;ccedil;a o &lt;strong&gt;Banco Supino Polimet&lt;/strong&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;O &lt;strong&gt;Banco Supino Polimet&lt;/strong&gt; &amp;eacute; perfeito para voc&amp;ecirc;, que procura uma forma eficiente de enrijecer seus m&amp;uacute;sculos do abd&amp;ocirc;men. Desta forma, voc&amp;ecirc; sempre estar&amp;aacute; com o corpo ideal para arrasar.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Al&amp;eacute;m disso, este &lt;strong&gt;banco supino&lt;/strong&gt; tamb&amp;eacute;m pode trabalhar com seus bra&amp;ccedil;os, fortalecendo toda a sua musculatura. Ent&amp;atilde;o, n&amp;atilde;o deixe de garantir o seu!&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;a href="http://esportes.centauro.com.br/nav/categoria/training/0" target="_blank"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Confira mais ofertas de Training!&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br /&gt;
+&lt;br type="_moz" /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;br type="_moz" /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;strong&gt;Principais Caracter&amp;iacute;sticas&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Confeccionado em tubo de a&amp;ccedil;o carbono fosfatizado&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Pintura em epoxi com dupla camada&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Dimens&amp;otilde;es do produto: 490 x 680 x 510 mm&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Peso aproximado: 18 Kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;strong&gt;Outros Diferenciais&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Este aparelho possibilita ao usu&amp;aacute;rio o enrijecimento do abdomen (m&amp;uacute;sculos da barriga), e tamb&amp;eacute;m &amp;eacute; um aparelho de uso dom&amp;eacute;stico e di&amp;aacute;rio&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Exerc&amp;iacute;cios:&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Abdominal &amp;ndash; com as pernas apoiadas &amp;ndash; tem como fun&amp;ccedil;&amp;atilde;o trabalhar os m&amp;uacute;sculos supra adbdominais&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Flex&amp;atilde;o de bra&amp;ccedil;os - tem como fun&amp;ccedil;&amp;atilde;o trabalhar tr&amp;iacute;ceps, delt&amp;oacute;ide anterior e posterior&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Tr&amp;iacute;ceps &amp;ndash; exerc&amp;iacute;cio o qual tem a fun&amp;ccedil;&amp;atilde;o trabalhar os m&amp;uacute;sculos do tr&amp;iacute;ceps&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Possui apoio para as pernas, n&amp;atilde;o sendo poss&amp;iacute;vel realizar nenhum tipo de exerc&amp;iacute;cio espec&amp;iacute;fico para esta &amp;aacute;rea do corpo.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Capacidade de peso: &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Supino reto - at&amp;eacute; 70 kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Supino inclinado - at&amp;eacute; 70 kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Banco Rosca Scott - at&amp;eacute; 50 kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Cruxifixo - at&amp;eacute; 30 kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Mesa Romana flexora - at&amp;eacute; 30 kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Mesa Romana Extensora - at&amp;eacute; 30 kg&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</FichaTecnica>
+    </FichaProduto>
+  </Produto>
+</CatalogoProdutos>
