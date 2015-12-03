@@ -28,3 +28,4 @@ npm-debug.log
 backup/
 cache/
 ignore-*
+config.json
