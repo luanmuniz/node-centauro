@@ -1,6 +1,7 @@
 'use strict';
 
-var request = require('supertest-as-promised'),
+var should = require('should'),
+	request = require('supertest'),
 	app = require('./mock/app'),
 	agent = request(app);
 
@@ -9,8 +10,8 @@ describe('Checking xml mock', function() {
 	it('GET /ArvoreDeCategorias', function(done) {
 		agent.get('/ArvoreDeCategorias.xml')
 			.expect(200)
-			.then(function (res) {
-				res.body.should.match(/xml/);
+			.end(function (err, res) {
+				res.text.should.match(/xml/);
 				done();
 			});
 	});
@@ -18,8 +19,8 @@ describe('Checking xml mock', function() {
 	it('GET /catalogofull', function(done) {
 		agent.get('/catalogofull.xml')
 			.expect(200)
-			.then(function (res) {
-				res.body.should.match(/xml/);
+			.end(function (err, res) {
+				res.text.should.match(/xml/);
 				done();
 			});
 	});
@@ -27,8 +28,8 @@ describe('Checking xml mock', function() {
 	it('GET /catalogoparcial', function(done) {
 		agent.get('/catalogoparcial.xml')
 			.expect(200)
-			.then(function (res) {
-				res.body.should.match(/xml/);
+			.end(function (err, res) {
+				res.text.should.match(/xml/);
 				done();
 			});
 	});
@@ -36,8 +37,8 @@ describe('Checking xml mock', function() {
 	it('GET /ValorDisponibilidadeEstoque', function(done) {
 		agent.get('/ValorDisponibilidadeEstoque.xml')
 			.expect(200)
-			.then(function (res) {
-				res.body.should.match(/xml/);
+			.end(function (err, res) {
+				res.text.should.match(/xml/);
 				done();
 			});
 	});

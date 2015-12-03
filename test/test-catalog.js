@@ -1,11 +1,9 @@
 'use strict';
 
-var request = require('supertest-as-promised'),
-	app = require('./mock/app'),
-	libHelper = require('../lib/catalog/helper'),
+var libHelper = require('../lib/catalog/helper'),
+	should = require('should'),
 	lib = require('../lib/catalog/index'),
-	mockLib = require('./mock/helper'),
-	agent = request(app);
+	mockLib = require('./mock/helper');
 
 describe('Test Helper', function() {
 
@@ -58,7 +56,7 @@ describe('Test Helper', function() {
 			});
 	});
 
-it('test parseProductObj for partialCatalog', function(done) {
+	it('test parseProductObj for partialCatalog', function(done) {
 		libHelper.makeRequest('partial')
 			.then(function(body) {
 				return libHelper.parseProductObj(body);
@@ -99,11 +97,5 @@ it('test parseProductObj for partialCatalog', function(done) {
 				done();
 			});
 	});
-
-});
-
-describe('Test Lib', function() {
-
-
 
 });
