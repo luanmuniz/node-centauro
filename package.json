@@ -1,6 +1,6 @@
 {
   "name": "centauro",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "A library for the Centauro API",
   "author": "Luan Muniz <luan@luanmuniz.com.br> (http://github.com/luanmuniz)",
   "homepage": "https://github.com/luanmuniz/node-centauro",
