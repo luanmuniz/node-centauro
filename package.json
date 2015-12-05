@@ -26,7 +26,7 @@
     "promise"
   ],
   "dependencies": {
-    "promise": "^7.0.3",
+    "promise": "^7.0.4",
     "request-promise": "^1.0.2",
     "xml2js": "^0.4.9"
   },
