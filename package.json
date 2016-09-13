@@ -21,7 +21,7 @@
     "eslint": "eslint --ignore-path .npmignore **/**/*.js --quiet",
     "david": "david",
     "mocha": "mocha --reporter spec",
-    "cover": "istanbul cover _mocha -- -R spec test/* && istanbul check-coverage --statement 100 --branch 100 --line 100 --function 100",
+    "cover": "istanbul cover _mocha -- -R spec test/* && istanbul check-coverage --statement 70 --branch 65 --line 70 --function 70",
     "test": "npm run eslint && npm run david && npm run mocha && npm run cover",
     "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
     "preversion": "git pull && rm -rf ./node_modules/ && npm install && npm test",

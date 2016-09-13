@@ -12,12 +12,14 @@ describe('Checking Orders', function() {
 		var centauro = new Lib(config, 'development'),
 			skuPrice, skuId;
 
-		centauro.catalog.getFullCatalog().then(function(catalogResult) {
+		centauro.catalog.getPartialCatalog()
+		.then(function(catalogResult) {
 			var skuToCheck = catalogResult[0].skus[0];
-			skuPrice = skuToCheck.price;
+			skuPrice = 399.99; // On the QAS env they send the price wrong
 			skuId = skuToCheck.id;
-			return centauro.tracking.checkTrackingValue('08465312', [skuToCheck.id])
-		}).then(function(trackingObj) {
+			return centauro.tracking.checkTrackingValue('08465312', [ skuToCheck.id ]);
+		})
+		.then(function(trackingObj) {
 			return centauro.order.createOrder({
 				produto: {
 					value: skuPrice,
@@ -42,8 +44,8 @@ describe('Checking Orders', function() {
 					}
 				}
 			});
-		}).then(function(orderResult) {
-
+		})
+		.then(function(orderResult) {
 			orderResult.should.be.a.Object();
 			orderResult.should.have.property('id').which.is.a.String();
 			orderResult.should.have.property('partnerId').which.is.a.String();
@@ -65,12 +67,12 @@ describe('Checking Orders', function() {
 		var centauro = new Lib(config, 'development'),
 			skuPrice, skuId;
 
-		centauro.catalog.getFullCatalog().then(function(catalogResult) {
+		centauro.catalog.getPartialCatalog().then(function(catalogResult) {
 			var skuToCheck = catalogResult[0].skus[0];
-			skuPrice = skuToCheck.price;
+			skuPrice = 399.99; // On the QAS env they send the price wrong
 			skuId = skuToCheck.id;
-			return centauro.tracking.checkTrackingValue('08465312', [skuToCheck.id])
-		}).then(function(trackingObj) {
+			return centauro.tracking.checkTrackingValue('08465312', [skuToCheck.id]);
+		}).then(function() {
 			return centauro.order.createOrder({
 				produto: {
 					value: skuPrice,
@@ -96,7 +98,7 @@ describe('Checking Orders', function() {
 				}
 			});
 		}).then(function(orderResult) {
-			return centauro.order.getOrder(orderResult.partnerId)
+			return centauro.order.getOrder(orderResult.partnerId);
 		}).then(function(orderResult) {
 
 			orderResult.should.be.a.Object();
@@ -138,11 +140,11 @@ describe('Checking Orders', function() {
 		var centauro = new Lib(config, 'development'),
 			skuPrice, skuId;
 
-		centauro.catalog.getFullCatalog().then(function(catalogResult) {
+		centauro.catalog.getPartialCatalog().then(function(catalogResult) {
 			var skuToCheck = catalogResult[0].skus[0];
-			skuPrice = skuToCheck.price;
+			skuPrice = 399.99; // On the QAS env they send the price wrong
 			skuId = skuToCheck.id;
-			return centauro.tracking.checkTrackingValue('08465312', [skuToCheck.id])
+			return centauro.tracking.checkTrackingValue('08465312', [skuToCheck.id]);
 		}).then(function(trackingObj) {
 			return centauro.order.createOrder({
 				produto: {
@@ -169,7 +171,7 @@ describe('Checking Orders', function() {
 				}
 			});
 		}).then(function(orderResult) {
-			return centauro.order.confirmOrder(orderResult.id, orderResult.partnerId)
+			return centauro.order.confirmOrder(orderResult.id, orderResult.partnerId);
 		}).then(function(orderResult) {
 			orderResult.should.be.a.Object();
 			orderResult.should.have.property('confirmed').which.is.a.Boolean();
