@@ -2,7 +2,7 @@
 
 var lib = require('../lib/helper'),
 	should = require('should'),
-	config = require('./config.json');
+	config = require('./config.js');
 
 describe('Checking ErrorHandler', function() {
 	this.timeout(15000);

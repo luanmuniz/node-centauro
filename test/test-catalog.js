@@ -4,7 +4,7 @@ var libHelper = require('../lib/catalog/helper'),
 	centauro = require('../index'),
 	should = require('should'),
 	mockLib = require('./mock/helper'),
-	configFile = require('./config.json');
+	configFile = require('./config.js');
 
 function checkFields(body, done) {
 	body.should.be.a.Array();

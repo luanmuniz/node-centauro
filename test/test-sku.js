@@ -3,7 +3,7 @@
 var request = require('supertest'),
 	Lib = require('../index'),
 	should = require('should'),
-	config = require('./config.json');
+	config = require('./config.js');
 
 describe('Checking Skus', function() {
 	this.timeout(15000);
