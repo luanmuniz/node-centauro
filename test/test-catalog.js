@@ -60,7 +60,7 @@ describe('Test Helper', function() {
 				body[0].skus[0].should.have.property('priceFrom').which.is.a.Number();
 
 				checkFields(body, done);
-			});
+			}).catch(console.log);
 	});
 
 	it('test parseProductObj for partialCatalog', function(done) {
@@ -76,18 +76,12 @@ describe('Test Helper', function() {
 
 describe('Test Helper without catalog', function() {
 
-	var partnerName;
-
 	it('test parseProductObj for fullCatalog', function(done) {
-		partnerName = configFile.partnerName;
-		delete configFile.partnerName;
-		var libHelper = new centauro(configFile, 'development');
-		libHelper.should.not.have.property('catalog');
-		done();
-	});
+		var configToEdit = Object.assign({}, configFile);
 
-	afterEach(function(done) {
-		configFile.partnerName = partnerName;
+		delete configToEdit.partnerName;
+		var libHelper = new centauro(configToEdit, 'development');
+		libHelper.should.not.have.property('catalog');
 		done();
 	});
 

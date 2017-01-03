@@ -21,8 +21,8 @@ var mockHelper = {
 				break;
 		}
 
-		fileBody = fs.readFileSync(__dirname + '/' + calledXML);
-		return this.parseBody(fileBody);
+		fileBody = fs.readFileSync(__dirname + '/' + calledXML, { encoding: 'utf8' });
+		return this.parseBody({ body: fileBody });
 	}
 
 };

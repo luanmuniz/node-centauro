@@ -147,6 +147,7 @@ describe('Checking Orders', function() {
 			return centauro.tracking.checkTrackingValue('08465312', [skuToCheck.id]);
 		}).then(function(trackingObj) {
 			return centauro.order.createOrder({
+				waitConfirmation: true,
 				produto: {
 					value: skuPrice,
 					skuId: skuId

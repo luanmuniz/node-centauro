@@ -33,6 +33,7 @@
     "promise"
   ],
   "dependencies": {
+    "got": "^6.3.0",
     "promise": "^7.1.1",
     "request": "^2.74.0",
     "request-promise": "^4.1.1",
