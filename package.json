@@ -22,7 +22,7 @@
     "david": "david",
     "mocha": "mocha --reporter spec",
     "cover": "istanbul cover _mocha -- -R spec test/* && istanbul check-coverage --statement 70 --branch 65 --line 70 --function 70",
-    "test": "npm run eslint && npm run david && npm run mocha && npm run cover",
+    "test": "npm run eslint && npm run david && npm run cover",
     "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
     "preversion": "git pull && rm -rf ./node_modules/ && npm install && npm test",
     "postversion": "git push && npm publish --access=public && git push --tags"
@@ -35,8 +35,6 @@
   "dependencies": {
     "got": "^6.3.0",
     "promise": "^7.1.1",
-    "request": "^2.74.0",
-    "request-promise": "^4.1.1",
     "xml2js": "^0.4.9"
   },
   "devDependencies": {
